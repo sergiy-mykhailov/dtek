@@ -1,4 +1,6 @@
 # dtek
+![dtek](./turned-off.png) 
+
 Random time generator
 
 ## Installation
