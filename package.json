@@ -1,0 +1,19 @@
+{
+  "name": "dtek",
+  "version": "0.0.1",
+  "description": "Random time generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiy-mykhailov/dtek.git"
+  },
+  "author": "Serhii Mykhailov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergiy-mykhailov/dtek/issues"
+  },
+  "homepage": "https://github.com/sergiy-mykhailov/dtek#readme"
+}
