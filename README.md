@@ -10,7 +10,7 @@ npm install dtek
 
 ## Usage
 ```
-const { generate } = require('./index.js');
+const { generate } = require('dtek');
 
 console.log(generate());
 ```
